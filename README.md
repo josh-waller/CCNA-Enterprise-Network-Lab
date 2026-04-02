@@ -6,7 +6,7 @@
 
 Full two-office enterprise network covering VLANs, EtherChannels, OSPF, HSRP, DHCP, NAT/PAT, Layer-2 security, IPv6 dual-stack, and wireless — built in Cisco Packet Tracer following the [Jeremy's IT Lab CCNA Mega Lab](https://www.jeremysitlab.com/) curriculum.
 
-![Network Topology](ccna_JPKT.png)
+![Network Topology](topology.png)
 
 ---
 
